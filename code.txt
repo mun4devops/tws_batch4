@@ -1,0 +1,7 @@
+git log
+git status
+git clone
+git remote -v
+git commit -m
+git push origin main
+
